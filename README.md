@@ -11,6 +11,14 @@ This sample **requires** prerequisites in order to run.
 ### Install Python 3.6
 
 ## Running the sample
+#### Install Cookie Cutter
+
+Run `pip install cookiecutter`
+
+#### Get Sample
+
+Run `cookiecutter https://github.com/ConversationalComponents/cookiecutter-RASA-CoCo.git`
+
 #### Install Requirements 
  Run `pip install -r requirements.txt` to install all dependencies
 

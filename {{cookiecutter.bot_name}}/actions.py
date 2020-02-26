@@ -22,7 +22,6 @@ class OneLiners(GenericCoCoAction):
 class Namer(GenericCoCoAction):
     component_name = "namer_vp3"
 
-    def run(self):
 
 class ActionHelloWorld(Action):
 
